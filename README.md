@@ -2,7 +2,7 @@
 ## Laptop Catalog Request
 
 This repository contains:
-- 📄 Project documentation (Optimizing User.docx)
+- 📄 Project documentation (Laptop-Catalog.docx)
 - 🎥 Demo video showing the implementation steps
 
 ## Document
@@ -11,4 +11,4 @@ This repository contains:
 ## Video Demo 1
 [Click here to watch the demo](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/laptop%20catalog1.mp4)
 ## Video Demo 2
-[Click here to watch the demo]()
+[Click here to watch the demo](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/Laptop%20catalog2.mp4)
