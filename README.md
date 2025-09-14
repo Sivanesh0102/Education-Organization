@@ -2,7 +2,7 @@
 ## Laptop Catalog Request
 
 This repository contains:
-- 📄 Project documentation (Laptop-Catalog.docx)
+- 📄 Project documentation (Education Organisation.docx)
 - 🎥 Demo video showing the implementation steps
 
 ## Document
