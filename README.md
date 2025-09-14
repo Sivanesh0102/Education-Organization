@@ -9,6 +9,6 @@ This repository contains:
 [Click here to view the document](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/Laptop%20Catalog.docx)
 
 ## Video Demo 1
-[Click here to watch the demo]()
+[Click here to watch the demo](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/laptop%20catalog1.mp4)
 ## Video Demo 2
 [Click here to watch the demo]()
