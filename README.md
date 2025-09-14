@@ -11,4 +11,4 @@ This repository contains:
 ## Video Demo 1
 [Click here to watch the demo](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/Education%20Organisation1.mp4)
 ## Video Demo 2
-[Click here to watch the demo]()
+[Click here to watch the demo](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/Education%20Organisation2.mp4)
