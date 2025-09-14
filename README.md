@@ -6,7 +6,9 @@ This repository contains:
 - 🎥 Demo video showing the implementation steps
 
 ## Document
-[Click here to view the document]()
+[Click here to view the document](https://github.com/Sivanesh0102/Laptop-Catalog/blob/main/Laptop%20Catalog.docx)
 
-## Video Demo
-[Click here to watch the demo](https://github.com/dhanush007-d/optimizing-user/blob/main/main.mp4)
+## Video Demo 1
+[Click here to watch the demo]()
+## Video Demo 2
+[Click here to watch the demo]()
